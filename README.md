@@ -1,12 +1,11 @@
 
-![map_example](https://user-images.githubusercontent.com/11891008/214560721-7b96b83f-5acd-4a6d-b3a2-d0f066f4d456.PNG)
+![banner_2](https://user-images.githubusercontent.com/11891008/214566800-73e883f2-9eff-468a-9297-3662ee0eea2e.PNG)
 
-# Earthquake
 
 Vizualize earthquakes happening around the world. </br>
 The data provided to us via the [US Geological Survey](https://earthquake.usgs.gov) and Streamlit is used to display everything.
 
-![california](https://user-images.githubusercontent.com/11891008/214564617-3e47db0a-80a9-4dca-9c67-194ecd5dc69e.PNG)
+
 
 
 ## Installation
